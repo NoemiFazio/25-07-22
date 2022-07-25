@@ -1,0 +1,9 @@
+.FriendCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.FriendCard img {
+  width: 100px;
+  border-radius: 100%;
+}
