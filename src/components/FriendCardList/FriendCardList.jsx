@@ -14,6 +14,7 @@ const FriendCardList = () => {
 
   return (
     <div className="FriendCardList">
+      <h1 FriendsCardList__title>Friend List 😃</h1>
       {friendList.length ? (
         friendList.map((friend) => (
           // friend.id &&

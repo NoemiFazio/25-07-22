@@ -9,8 +9,11 @@
   width: 400px;
   flex-grow: 2;
 }
-
+.App__friends__title {
+}
 .App__friends {
   gap: 10px;
   flex-grow: 1;
+  margin-left: 20px;
+  /* border: 1px black solid; */
 }
